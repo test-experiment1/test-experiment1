@@ -1,10 +1,19 @@
-### Hi there 👋
+My *
 
-- 🔭 I’m currently working on data science
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ..
+## *name* is **Aditya Mishra**
+
+ - Item 1
+ - item 2
+~~cwcwcc~~
+ - [ ] Lis
+ - [ ] cw
+ - [ ] cwe
+ - [ ] cwe
+ - [ ] List item
+
+> t item
+
+    [aditya mishra](https://github.com/test-experiment1)
+|ew|2  |
+|22|-2-|
+|22 |  |
